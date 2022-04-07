@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=38C2FF&background=FEFEFE00&center=true&multiline=true&height=80&lines=WELCOME!;!%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF)](https://git.io/typing-svg)
 
-<img align="center" alt="GIF" src="https://media2.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=790b7611ac623d20ae0a72a224ae525e74643f3ffc6ea7d8&rid=giphy.gif&ct=g"/>
+<img width = "100%" align="center" alt="GIF" src="https://media2.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=790b7611ac623d20ae0a72a224ae525e74643f3ffc6ea7d8&rid=giphy.gif&ct=g"/>
 
 <br/>
 
