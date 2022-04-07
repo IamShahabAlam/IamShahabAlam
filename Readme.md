@@ -7,7 +7,7 @@
 
 <br/>
 
-### :placard: About Me
+## :placard: About Me
 
   🌱 A passionate individual who loves building Flutter Applications.
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-### :paperclips: Connect with me:
+## :paperclips: Connect with me:
 
   
 
@@ -45,7 +45,9 @@
 
 <br />
 
- ### :hammer_and_wrench: Languages and Tools:
+<br />
+
+ ## :hammer_and_wrench: Languages and Tools:
 
   
   
@@ -95,7 +97,7 @@
 
 <br />
 
-### 🚀 Softwares:
+## 🚀 Softwares:
 
   
 
@@ -127,20 +129,22 @@
 <img  src = "https://github-profile-trophy.vercel.app/?username=iamshahabalam&theme=darkhub&no-frame=true&title=Commit,Repo,Follower,Star"  width = "100%" />  
 
 
+<br />
+
 
 ##  &#x1f4c8; GitHub Stats
 
   
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamshahabalam&count_private=true&show_icons=true&theme=react&&include_all_commits=true"  width=80% />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamshahabalam&count_private=true&show_icons=true&theme=react&&include_all_commits=true"  width=60% />
 
   
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=80% />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=60% />
 
   
 
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=80% /><br/>
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=60% /><br/>
  
  <br />
  
