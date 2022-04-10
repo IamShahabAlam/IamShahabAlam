@@ -18,7 +18,7 @@
   📚 When I am not coding, you'll find me browsing for anything related to Flutter, Hungry to learn more. 
   
   🐾 Find out more about me & feel free to connect with me here:
-<br/>
+
 
 ## :paperclips: Connect with me:
 
