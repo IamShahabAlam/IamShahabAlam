@@ -141,11 +141,11 @@
 
   
 
-<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=50% height=150 />
+<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=45% height=150 />
 
   
 
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=50% height=150 /><br/>
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=45% height=150 /><br/>
  
  <br />
  
