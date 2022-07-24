@@ -15,7 +15,7 @@
 
   🎓 Pursuing my Bachelor's Degree in Computer Science from SMI University.
 
-  ✨ What made me fall in love with App development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+  ✨ What made me fall in love with Flutter is the capability to create interfaces, while Fluttering I feel like making art with Dart.
 
   📚 When I am not coding, you'll find me browsing for anything related to Flutter, Hungry to learn more. 
   
