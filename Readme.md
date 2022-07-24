@@ -137,15 +137,15 @@
 
   
 
-<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=iamshahabalam&count_private=true&show_icons=true&theme=react&&include_all_commits=true"  width=30% height=100/>
+<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=iamshahabalam&count_private=true&show_icons=true&theme=react&&include_all_commits=true"  width=40% height=100/>
 
   
 
-<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=30% height=100 />
+<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshahabalam&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6"  width=40% height=100 />
 
   
 
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=30% height=100 /><br/>
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahabalam&theme=black-ice"  width=40% height=100 /><br/>
  
  <br />
  
