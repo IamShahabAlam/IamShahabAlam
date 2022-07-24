@@ -3,9 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&color=38C2FF&background=FEFEFE00&center=true&multiline=true&height=120&lines=WELCOME!;!%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF)](https://git.io/typing-svg)
 
 
+<<<<<<< HEAD
 <p align ="center">
 <img align="center" width = "50%" alt="GIF" src="https://media2.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=790b7611ac623d20ae0a72a224ae525e74643f3ffc6ea7d8&rid=giphy.gif&ct=g"/>
 </p>
+=======
+
+<img width = "50%" align="center" alt="GIF" src="https://media2.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=790b7611ac623d20ae0a72a224ae525e74643f3ffc6ea7d8&rid=giphy.gif&ct=g"/>
+>>>>>>> 6d998be0cc5d1da5dbd1125101dca4e1f62f60d0
 
 <br/>
 
