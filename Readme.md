@@ -1,6 +1,6 @@
 ## **Asalam-U-Alikum** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=iamshahabalam&color=000000">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&color=38C2FF&background=FEFEFE00&center=true&multiline=true&height=120&lines=WELCOME!;!%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&color=38C2FF&background=FEFEFE00&center=true&multiline=false&height=120&lines=WELCOME!;!%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF)](https://git.io/typing-svg)
 
 
 <p align ="center">
