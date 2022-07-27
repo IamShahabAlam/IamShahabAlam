@@ -10,6 +10,8 @@
 <br/>
 
 ## :placard: About Me
+
+
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="180"> </img>
 
   🌱 A passionate individual who loves building Flutter Applications.
