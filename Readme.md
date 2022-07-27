@@ -1,7 +1,5 @@
 ## **Asalam-U-Alikum** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=iamshahabalam&color=000000"> <img align = "right"   src="https://wakatime.com/badge/user/8b2ed040-28d0-4305-8742-330710811583.svg"> 
 
-<!-- [![wakatime](https://wakatime.com/badge/user/8b2ed040-28d0-4305-8742-330710811583.svg)](https://wakatime.com/@8b2ed040-28d0-4305-8742-330710811583)
-</p> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3500&center=true&width=800&height=80&lines=WELCOME!++!%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF++)](https://git.io/typing-svg)
 
@@ -12,6 +10,7 @@
 <br/>
 
 ## :placard: About Me
+<img align="right" src="https://i.imgur.com/FjlkaZK.png"> </img>
 
   🌱 A passionate individual who loves building Flutter Applications.
 
