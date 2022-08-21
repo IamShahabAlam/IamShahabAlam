@@ -49,7 +49,7 @@
 <img  align="left"  alt="BuyMeACoffee"  width="30px"  src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=768x576&vertical=top" /></a>
 
 <a  href="https://medium.com/@iamshahabalam">
-<img  align="left"  alt="Medium"  width="30px"  src="https://img.icons8.com/fluency/344/medium-logo.png" /></a>
+<img  align="left"  alt="Medium"  width="25px"  src="https://img.icons8.com/fluency/344/medium-logo.png" /></a>
 
 
 <br />
