@@ -49,6 +49,11 @@
 <img  align="left"  alt="Medium"  width="25px"  src="https://img.icons8.com/fluency/344/medium-logo.png" /></a>
 
 
+<a  href="https://dev.to/iamshahabalam">
+<img  align="left"  alt="DEV"  width="30px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-256.png" /></a>
+
+
+
 <a  href="https://www.buymeacoffee.com/IamShahabAlam">
 <img  align="left"  alt="BuyMeACoffee"  width="30px"  src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=768x576&vertical=top" /></a>
 
@@ -164,4 +169,4 @@
 For More Stats <a href ="https://profile-summary-for-github.com/user/iamshahabalam">Click here</a>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img> </p>
