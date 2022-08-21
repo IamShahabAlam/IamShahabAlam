@@ -50,7 +50,7 @@
 
 
 <a  href="https://dev.to/iamshahabalam">
-<img  align="left"  alt="DEV"  width="30px"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" /></a>
+<img  align="left"  alt="DEV"  width="25px"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" /></a>
 
 
 
