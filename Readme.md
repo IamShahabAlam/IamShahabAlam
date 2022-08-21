@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://www.buymeacoffee.com/IamShahabAlam">
-<img align="left"  alt="BuyMeACoffee"  width="22px" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" /></a>
+<img align="left"  alt="BuyMeACoffee" height="25" width="22px" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" /></a>
 
 
 <br />
