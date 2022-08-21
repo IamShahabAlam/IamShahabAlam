@@ -47,6 +47,13 @@
 
 <a href="https://www.buymeacoffee.com/IamShahabAlam">
 <img align="left"  alt="BuyMeACoffee" height="23" width="20px" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" /></a>
+<a  href="https://www.buymeacoffee.com/IamShahabAlam">
+<img  align="left"  alt="BuyMeACoffee"  width="30px"  src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=768x576&vertical=top" /></a>
+
+<a  href="https://www.buymeacoffee.com/IamShahabAlam">
+<img  align="left"  alt="BuyMeACoffee"  width="30px"  src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/616e4ae6995fb288e434c3f0927541ce.png?compress=1&resize=768x576&vertical=top" /></a>
+
+
 
 
 <br />
