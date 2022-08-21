@@ -50,7 +50,7 @@
 
 
 <a  href="https://dev.to/iamshahabalam">
-<img  align="left"  alt="DEV"  width="30px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-256.png" /></a>
+<img  align="left"  alt="DEV"  width="30px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png" /></a>
 
 
 
