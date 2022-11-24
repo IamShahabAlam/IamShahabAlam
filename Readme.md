@@ -39,6 +39,13 @@
 
 </a>
 
+<a  href="https://www.linkedin.com/in/iamshahabalam
+">
+
+<img  align="left"  alt="LinkedIn"  width="24px"  src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
+
+</a>
+
 <a  href="mailto:IamshahabAlam@gmail.com">
 
 <img  align="left"  alt="Gmail"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
@@ -169,4 +176,7 @@
 For More Stats <a href ="https://profile-summary-for-github.com/user/iamshahabalam">Click here</a>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img> </p>
+<img src="https://user-images.githubusercontent.com/82330891/203849226-b396561a-3ab1-4d80-85b1-e3accd07008c.gif"  frameBorder="0" class="giphy-embed" allowFullScreen></img> </p>
+
+<!-- <p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img> </p> -->
