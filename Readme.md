@@ -39,8 +39,7 @@
 
 </a>
 
-<a  href="https://www.linkedin.com/in/iamshahabalam
-">
+<a  href="https://www.linkedin.com/in/iamshahabalam">
 
 <img  align="left"  alt="LinkedIn"  width="24px"  src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
 
